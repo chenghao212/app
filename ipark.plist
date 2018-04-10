@@ -35,13 +35,13 @@
 <key>bundle-identifier</key>
 <string>com.letsiot.testpark.ios8fix</string>
 <key>bundle-version</key>
-<string>1.0.0</string>
+<string>1.0.2</string>
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
 <string></string>
 <key>title</key>
-<string>ÖÇ»ÛÔ°ÁÖ</string>
+<string>智慧园林</string>
 </dict>
 </dict>
 </array>
